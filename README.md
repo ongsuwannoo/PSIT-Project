@@ -8,7 +8,7 @@
  3.Mr.Jakkrapat Suwanno    61070022 <br />
  4.Miss Wanatharn Kongkaew 61070195 <br />
  
-<img src="tan.jpg">
+<img src="tanknk.jpg">
 <br />
 <br />
 <br />

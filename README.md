@@ -13,7 +13,7 @@
   <th> <img src=tanknk.jpg height="150" width="150"></th>
  </tr>
  <tr>
-  <td><center><KUNAKORN</center></td>
+  <td><center>KUNAKORN</center></td>
  </tr>
  </table>
 <br />

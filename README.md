@@ -10,7 +10,7 @@
  
 <table border=1 style="width:30%">
  <tr>
-  <th> <img src=tanknk.jpg height="200" width="200"></th>
+  <th> <img src=tanknk.jpg height="150" width="150"></th>
  </tr>
  <tr>
   <td> KUNAKORN </td>

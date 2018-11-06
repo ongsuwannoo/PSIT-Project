@@ -13,7 +13,7 @@
   <th><img src=great.jpg height="150" width="130"></th>
   <th><img src=tank.jpg height="150" width="150"></th>
   <th><img src=ong.jpg height="150" width="150"></th>
-  <th><img src=giphy.gif height="150" width="150"></th>
+  <th><img src=giphy.gif height="200" width="300"></th>
  </tr>
  <tr>
   <th><p align="center">Kesaranee Trisawatwong</p></th> 

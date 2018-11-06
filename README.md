@@ -11,8 +11,8 @@
 <center><table>
  <tr>
   <th><img src=giphy.gif height="150" width="150"></th>
-  <th><img src=ong.jpg height="150" width="150"></th>
   <th><img src=tank.jpg height="150" width="150"></th>
+  <th><img src=ong.jpg height="150" width="150"></th>
   <th><img src=giphy.gif height="150" width="150"></th>
  </tr>
  <tr>

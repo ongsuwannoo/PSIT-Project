@@ -13,7 +13,7 @@
   <th> <img src=tanknk.jpg height="150" width="150"></th>
  </tr>
  <tr>
-  <td>Kunakorn Kositsakul</td>
+  <td><p align="center">Kunakorn Kositsakul</p></td>
  </tr>
  <tr>
   <td>61070020</td>

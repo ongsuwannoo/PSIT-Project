@@ -13,10 +13,10 @@
   <th> <img src=tanknk.jpg height="150" width="150"></th>
  </tr>
  <tr>
-  <td><div style="text-align:center">Kunakron Kositsakul</div></td>
+  <td><div style="text-align:center">Kunakorn Kositsakul</div></td>
  </tr>
  <tr>
-  <td><p align="center">61070020</p></td>
+  <td><div style="text-align:center">61070020</div></td>
  </tr>
  </table>
 <br />

@@ -10,10 +10,10 @@
  
 <table border=1 style="width:30%">
  <tr>
-  <th> <img src=tanknk.jpg height="150" width="150"></th>
+  <th><img src=tanknk.jpg height="150" width="150"></th>
  </tr>
  <tr>
-  <td><div style="text-align:center">Kunakorn Kositsakul</div></td>
+  <td><img align="center">Kunakorn Kositsakul</td>
  </tr>
  <tr>
   <td><div style="text-align:center">61070020</div></td>

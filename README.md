@@ -12,14 +12,20 @@
  <tr>
   <th><img src=tank.jpg height="150" width="150"></th>
   <th><img src=ong.jpg height="150" width="150"></th>
+  <th><img src=tank.jpg height="150" width="150"></th>
+  <th><img src=tank.jpg height="150" width="150"></th>
  </tr>
  <tr>
   <th><p align="center">Kunakorn Kositsakul</p></th> 
   <th><p align="center">Jakkrapat Suwanno</p></th>
+  <th><p align="center">Kunakorn Kositsakul</p></th>
+  <th><p align="center">Kunakorn Kositsakul</p></th>
  </tr>
  <tr>
   <th><p align="center">61070020</p></th>
   <th><p align="center">61070022</p></th>
+  <th><p align="center">61070020</p></th>
+  <th><p align="center">61070020</p></th>
  </table>
 <br />
 <br />

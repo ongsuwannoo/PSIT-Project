@@ -14,9 +14,7 @@
  </tr>
  <tr>
   <td><p align="center">Kunakorn Kositsakul</p></td>
- </tr>
- <tr>
-  <td><div style="text-align:center">61070020</div></td>
+  <td><p align="center">61070020></p></td>
  </tr>
  </table>
 <br />

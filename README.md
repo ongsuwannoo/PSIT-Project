@@ -37,4 +37,4 @@
 <br />
 <br />
 <br />
-<a href=https://www.google.com/><img src="python.png" height="100" width="100"></a>
+<a href=https://www.google.com/><img src="python.png" height="100" width="500"></a>

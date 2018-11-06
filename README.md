@@ -8,7 +8,7 @@
  3.Mr.Jakkrapat Suwanno    61070022 <br />
  4.Miss Wanatharn Kongkaew 61070195 <br />
  
-<table border=1>
+<center><table>
  <tr>
   <th><img src=tank.jpg height="150" width="150"></th>
   <th><img src=ong.jpg height="150" width="150"></th>
@@ -26,7 +26,7 @@
   <th><p align="center">61070022</p></th>
   <th><p align="center">61070020</p></th>
   <th><p align="center">61070020</p></th>
- </table>
+ </table></center>
 <br />
 <br />
 <br />

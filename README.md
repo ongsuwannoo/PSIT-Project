@@ -40,4 +40,4 @@ Project นี้เป็นการอธิบายถึงเรื่อ
 <br />
 <br />
 <br />
-<a href=https://www.google.com/><img src="images/python.png" height="300" width="700"></a>
+<a href=https://www.google.com/><img src="images/pythonlogo.png" height="150" width="150"></a>

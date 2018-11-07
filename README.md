@@ -1,5 +1,5 @@
 # PSIT-Project by .....
-![](giphy.gif)
+![](images/giphy.gif)
 
 # Description
 Project นี้เป็นการอธิบายถึงเรื่องของการ...
@@ -13,10 +13,10 @@ Project นี้เป็นการอธิบายถึงเรื่อ
  
 <center><table>
  <tr>
-  <th><img src=great.jpg height="150" width="130"></th>
-  <th><img src=tank.jpg height="150" width="150"></th>
-  <th><img src=ong.jpg height="150" width="150"></th>
-  <th><img src=tawtun.jpg height="150" width="150"></th>
+  <th><img src="images/great.jpg" height="150" width="130"></th>
+  <th><img src="images/tank.jpg" height="150" width="150"></th>
+  <th><img src="images/ong.jpg" height="150" width="150"></th>
+  <th><img src="images/tawtun.jpg" height="150" width="150"></th>
  </tr>
  <tr>
   <th><p align="center">Kesaranee Trisawatwong</p></th> 
@@ -40,4 +40,4 @@ Project นี้เป็นการอธิบายถึงเรื่อ
 <br />
 <br />
 <br />
-<a href=https://www.google.com/><img src="python.png" height="300" width="700"></a>
+<a href=https://www.google.com/><img src="images/python.png" height="300" width="700"></a>

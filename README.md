@@ -1,4 +1,4 @@
-# PSIT-Project by .....
+# E-Sport Analysis
 ![](images/giphy.gif)
 
 # Description

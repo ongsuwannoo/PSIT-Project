@@ -31,14 +31,7 @@ Project นี้เป็นการวิเคราะห์ความน
   <th><p align="center">61070195</p></th>
  </table></center>
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 # Thank you to
+
 <img src="images/made-with-python.svg">   <img src="images/uses-html.svg">

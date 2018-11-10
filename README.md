@@ -40,4 +40,4 @@ Project นี้เป็นการวิเคราะห์ความน
 <br />
 <br />
 <br />
-<a href=https://www.python.org/><img src="images/pythonlogo.png" height="150" width="150"></a>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)

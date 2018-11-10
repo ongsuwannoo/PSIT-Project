@@ -1,4 +1,4 @@
-# E-Sport Analysis
+# Esports Analysis
 ![](images/giphy.gif)
 
 # Description

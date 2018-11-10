@@ -40,4 +40,4 @@ Project นี้เป็นการวิเคราะห์ความน
 <br />
 <br />
 <br />
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]

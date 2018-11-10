@@ -42,4 +42,4 @@ Project นี้เป็นการวิเคราะห์ความน
 <br />
 # Thank you
 <br />
-![](images/made-with-python.svg)
+<img src="images/made-with-python.svg">

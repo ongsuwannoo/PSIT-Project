@@ -40,6 +40,5 @@ Project นี้เป็นการวิเคราะห์ความน
 <br />
 <br />
 <br />
-# Thank you
-<br />
-<img src="images/made-with-python.svg">
+# Thank you to
+<img src="images/made-with-python.svg">   <img src="images/uses-html.svg">

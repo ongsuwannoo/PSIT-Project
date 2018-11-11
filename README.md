@@ -30,7 +30,7 @@ Project นี้เป็นการวิเคราะห์ความน
   <th><p align="center">61070022</p></th>
   <th><p align="center">61070195</p></th>
  </table></center>
-<br />
+
 # References
 <a href=http://database.esportsobserver.com/>TEO Professional</a>
 

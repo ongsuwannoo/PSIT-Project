@@ -31,5 +31,7 @@ Project นี้เป็นการวิเคราะห์ความน
   <th><p align="center">61070195</p></th>
  </table></center>
 <br />
+# References
+<a href=http://database.esportsobserver.com/>TEO Professional</a>
 
 <a href=https://forthebadge.com/><img src="images/made-with-python.svg"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=https://forthebadge.com/><img src="images/uses-html.svg"></a>

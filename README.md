@@ -6,7 +6,6 @@ Project นี้เป็นการวิเคราะห์ความน
 
 # Author
  IT KMITL#16 <br />
- GG <e>Judge ! <br />
  1.Miss Kesaranee Trisawatwong  61070018 <br />
  2.Mr.Kunakorn Kositsakul       61070020 <br />
  3.Mr.Jakkrapat Suwanno         61070022 <br />

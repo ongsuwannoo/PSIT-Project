@@ -32,7 +32,8 @@ Project นี้เป็นการวิเคราะห์ความน
  </table></center>
 
 # References
-<a href=http://database.esportsobserver.com/>TEO Professional</a>
+<a href=http://database.esportsobserver.com/>TEO Professional</a><br />
+<a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
 <br />
 <br />
 

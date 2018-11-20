@@ -10,7 +10,6 @@ Project นี้เป็นการวิเคราะห์ความน
  2.Mr.Kunakorn Kositsakul       61070020 <br />
  3.Mr.Jakkrapat Suwanno         61070022 <br />
  4.Miss Wanatharn Kongkaew      61070195 <br />
- Lastest Update : 20 Nov 2018 10:16 AM <br />
  
 <center><table>
  <tr>
@@ -31,6 +30,8 @@ Project นี้เป็นการวิเคราะห์ความน
   <th><p align="center">61070022</p></th>
   <th><p align="center">61070195</p></th>
  </table></center>
+ 
+# Lastest Update : 20 Nov 2018 10:32 AM
 
 # References
 <a href=http://database.esportsobserver.com/>TEO Professional</a><br />

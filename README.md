@@ -31,7 +31,8 @@ Project นี้เป็นการวิเคราะห์ความน
   <th><p align="center">61070195</p></th>
  </table></center>
  
-# Lastest Update : 20 Nov 2018 10:32 AM
+<b>Lastest Update : 20 Nov 2018 10:32 AM</b>
+<br />
 
 # References
 <a href=http://database.esportsobserver.com/>TEO Professional</a><br />

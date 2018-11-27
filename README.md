@@ -5,7 +5,7 @@
 Project นี้เป็นการวิเคราะห์ความนิยมของแนวเกมในวงการ Esports ว่าเกมแนวใดสามารถเจาะตลาดให้ผู้เล่นมาสนใจได้มากที่สุด และ<br />รายได้ทั้งหมดของวงการ Esports มีผลต่อเศรษฐกิจอย่างไร
 
 # Author
- IT KMITL#16 <br />
+ <b>IT KMITL#16</b> <br />
  1.Miss Kesaranee Trisawatwong  61070018 <br />
  2.Mr.Kunakorn Kositsakul       61070020 <br />
  3.Mr.Jakkrapat Suwanno         61070022 <br />

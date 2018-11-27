@@ -14,7 +14,3 @@ worldmap_chart = pg.maps.world.World()
 worldmap_chart.title = 'Top_100_ProPlayer_Prize_by_continent'
 worldmap_chart.add('Pro', dic)
 worldmap_chart.render_to_file('Top_100_ProPlayer_Prize_by_continent.svg')
-
-
-
-

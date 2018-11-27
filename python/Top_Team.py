@@ -13,5 +13,5 @@ line_chart = pg.HorizontalBar() # set graph
 line_chart.title = 'Top_Team' # graph name
 
 for i in data_top_name:
-    line_chart.add(i, name[i]) # create
+    line_chart.add(i, dic[i]) # create
 line_chart.render_to_file('Top_Team.svg') # export file svg

@@ -41,3 +41,5 @@ Project นี้เป็นการวิเคราะห์ความน
 <br />
 
 <a href=https://forthebadge.com/><img src="images/made-with-python.svg"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=https://forthebadge.com/><img src="images/uses-html.svg"></a>
+
+<img src="python/Top_100_ProPlayer_Prize_by_continent.svg">

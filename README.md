@@ -43,4 +43,4 @@ Project นี้เป็นการวิเคราะห์ความน
 <a href=https://forthebadge.com/><img src="images/made-with-python.svg"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=https://forthebadge.com/><img src="images/uses-html.svg"></a>
 
 
-<a href=web/test.html><img src="images/enter.png></a>
+<a href=www.it.kmitl.ac.th/~it61070020/web/test.html><img src="images/enter.png></a>

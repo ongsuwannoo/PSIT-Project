@@ -31,7 +31,7 @@ Project นี้เป็นการวิเคราะห์ความน
   <th><p align="center">61070195</p></th>
  </table></center>
  
-<b>Lastest Update : 27 Nov 2018 10:53 PM</b>
+<b>Lastest Update : 28 Nov 2018 09:16 AM</b>
 <br />
 
 # References
@@ -41,5 +41,3 @@ Project นี้เป็นการวิเคราะห์ความน
 <br />
 
 <a href=https://forthebadge.com/><img src="images/made-with-python.svg"></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=https://forthebadge.com/><img src="images/uses-html.svg"></a>
-
-<iframe src="python/Top_Team.svg" width="1000" height="1000"> </iframe>

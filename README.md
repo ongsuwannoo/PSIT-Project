@@ -1,11 +1,11 @@
-# 👾 Esports Analysis by GG \<e>Judge 
+# Esports Analysis by GG \<e>Judge 
 ![](images/esports.gif)
 
-# 📃 Description 
+# Description 
 Project นี้เป็นการวิเคราะห์ความนิยมของแนวเกมในวงการ Esports ว่าเกมแนวใดสามารถเจาะตลาดให้ผู้เล่นมาสนใจได้มากที่สุด และ<br />รายได้ทั้งหมดของวงการ Esports มีผลต่อเศรษฐกิจอย่างไร
 <a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a>
 
-# ✏️ Author 
+# Author 
  <b>IT KMITL#16</b> <br />
  1.Miss Kesaranee Trisawatwong  61070018 <br />
  2.Mr.Kunakorn Kositsakul       61070020 <br />
@@ -35,7 +35,7 @@ Project นี้เป็นการวิเคราะห์ความน
 <b>Lastest Update : 13 Dec 2018 08:40 PM</b>
 <br />
 
-# 📌 References 
+# References 
 <a href=http://database.esportsobserver.com/>TEO Professional</a><br />
 <a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
 <br />

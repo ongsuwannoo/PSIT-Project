@@ -1,4 +1,4 @@
-# Esports Analysis by GG \<e>Judge
+# 🎮 Esports Analysis by GG \<e>Judge 🎮
 ![](images/esports.gif)
 
 # Description

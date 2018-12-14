@@ -7,7 +7,7 @@ Project นี้เป็นการวิเคราะห์ความน
 <b>2.วิเคราะห์แนวเกมที่เป็นที่นิยมในวงการ eSports</b>
 
 # Status
-<b>Economic : Uncompleted</b><br>
+<b>Economic&nbsp;&nbsp;&nbsp; : Uncompleted</b><br>
 <b>Game Trends : Uncompleted</b><br>
 <b>Conclusion : Uncompleted</b><br>
 <a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a>

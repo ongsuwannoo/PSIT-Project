@@ -10,8 +10,8 @@ Project นี้เป็นการวิเคราะห์ความน
 <b>Economic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: Uncompleted</b><br>
 <b>Game Trends&nbsp;&nbsp;&nbsp;: Uncompleted</b><br>
 <b>Conclusion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Uncompleted</b><br>
-<b>Lastest Update : 14 Dec 2018 04:01 PM</b>
-ผลการดำเนินการ&nbsp;&nbsp;<a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a>
+<b>Lastest Update : 14 Dec 2018 04:01 PM</b><br>
+<h6>ผลการดำเนินการ&nbsp;&nbsp;<a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a></h6>
 # Author 
  <b>IT KMITL#16</b> <br />
  1.Miss Kesaranee Trisawatwong  61070018 <br />

@@ -2,13 +2,15 @@
 ![](images/esports.gif)
 
 # Description 
-Project นี้เป็นการวิเคราะห์ความนิยมของแนวเกมในวงการ Esports ว่าเกมแนวใดสามารถเจาะตลาดให้ผู้เล่นมาสนใจได้มากที่สุด และ<br />รายได้ทั้งหมดของวงการ Esports มีผลต่อเศรษฐกิจอย่างไร<br><b>ผลการดำเนินการ</b><a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a>
+Project นี้เป็นการวิเคราะห์ความนิยมของแนวเกมในวงการ Esports ว่าเกมแนวใดสามารถเจาะตลาดให้ผู้เล่นมาสนใจได้มากที่สุด และ<br />รายได้ทั้งหมดของวงการ Esports มีผลต่อเศรษฐกิจอย่างไร<br>
+1.วิเคราะห์เศรษฐกิจในวงการ eSports
+2.วิเคราะห์แนวเกมที่เป็นที่นิยมในวงการ eSports
 
 # Status
 <b>Economic : Uncompleted</b><br>
 <b>Game Trends : Uncompleted</b><br>
 <b>Conclusion : Uncompleted</b><br>
-
+<a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a>
 # Author 
  <b>IT KMITL#16</b> <br />
  1.Miss Kesaranee Trisawatwong  61070018 <br />

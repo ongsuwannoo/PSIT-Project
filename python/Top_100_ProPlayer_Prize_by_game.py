@@ -1,6 +1,5 @@
 import pandas as pd
 import pygal as pg
-from pygal.style import NeonStyle
 dic = {}
 
 data = pd.read_csv("esportsplayer.csv") # import file
@@ -11,7 +10,8 @@ for i in data_top_set:
     dic[i] = data_top_list.count(i)
 lis_top_game_by_player = sorted(dic.items(), key=lambda x: x[1], reverse=True)
 
-pie_chart = pg.Pie(legend_at_bottom=True, legend_at_bottom_columns=1, style=NeonStyle)
+
+pie_chart = pg.Pie(legend_at_bottom=True, legend_at_bottom_columns=1)
 pie_chart.title = 'Top_100_ProPlayer_Prize_by_game'
 for i in range(len(lis_top_game_by_player)):
     pie_chart.add(lis_top_game_by_player[i][0], lis_top_game_by_player[i][1])

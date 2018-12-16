@@ -42,7 +42,15 @@ def main():
 
 def graph(var):
     """ plot graph """
-    line_chart = pygal.Bar(x_title='First Graph')
+    from pygal.style import Style
+    custom_style = Style(
+    legend_font_size=8,
+    title_font_size=10,
+    legend_at_bottom_columns=3,
+    plot_background='#FFFFFF',
+    background='#FFFFFF')
+
+    line_chart = pygal.Bar(x_title='First Graph', style=custom_style, truncate_legend=1500)
     for i in range(10):
         line_chart.add(var[i][0], var[i][1])
     line_chart.render_to_file('mostviewedoverall.svg')

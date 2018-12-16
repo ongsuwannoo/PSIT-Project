@@ -29,9 +29,15 @@ def main():
 
 def graph(var):
     """ plot graph """
-    line_chart = pygal.Bar(legend_at_bottom=True, legend_at_bottom_columns=5)
-    line_chart.title = 'Most Watched Games Twitch in 5 months'
-    name = 205
+    from pygal.style import Style
+    custom_style = Style(
+    legend_font_size=8,
+    title_font_size=10,
+    legend_at_bottom_columns=3,
+    plot_background='#FFFFFF',
+    background='#FFFFFF')
+
+    line_chart = pygal.Bar(x_title='Second Graph', style=custom_style, truncate_legend=1500)
     for i in range(10):
         line_chart.add(var[i][0], var[i][1])
     line_chart.render_to_file('mostviewedtwitch.svg')

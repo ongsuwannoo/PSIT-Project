@@ -42,9 +42,7 @@ def main():
 
 def graph(var):
     """ plot graph """
-    line_chart = pygal.Bar(legend_at_bottom=True, legend_at_bottom_columns=5)
-    line_chart.title = 'Most Watched Games Overall in 5 months'
-    name = 205
+    line_chart = pygal.Bar(x_title='First Graph')
     for i in range(10):
         line_chart.add(var[i][0], var[i][1])
     line_chart.render_to_file('mostviewedoverall.svg')

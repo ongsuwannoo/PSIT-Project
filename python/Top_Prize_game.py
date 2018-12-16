@@ -1,26 +1,19 @@
 import pandas as pd
 import pygal as pg
 from pygal.style import Style
-dic, lis, temp = {}, [], []
+lis, temp = [[], [], [], [], []], []
 rank = ['1st', '2nd', '3rd', '4th', '5th']
+rank.reverse()
 
 for i in range(2012, 2018):
     name = "TopGamesof"+str(i)
     data = pd.read_csv(name+".csv")
     data_prize = list(data['TotalPrize'])
+    data_prize.sort(reverse=True)
 
-    for j in range(6):
-        if j not in dic:
-            dic[j] = data_prize[j]
-        else:
-            dic[j] += data_prize[j]
-
-    for k in dic:
-        temp.append(dic[k])
-
-    temp.sort()
-    lis.append(temp)
-    dic, temp = {}, []
+    for j in range(5):
+        lis[j].append(data_prize[j])
+lis.reverse()
 
 custom_style = Style(
     colors=('#FF6600', '#FFD800', '#34DDDD', '#C1D208', '#D01A55'))

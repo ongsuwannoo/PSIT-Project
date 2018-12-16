@@ -10,7 +10,7 @@ Project นี้เป็นการวิเคราะห์ความน
 <b>Economic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: Uncompleted</b><br>
 <b>Game Trends&nbsp;&nbsp;&nbsp;: Uncompleted</b><br>
 <b>Conclusion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Uncompleted</b><br>
-<b>Lastest Update : 14 Dec 2018 04:01 PM</b><br>
+<b>Lastest Update : 16 Dec 2018 10:52 PM</b><br>
 <b>ผลการดำเนินการ (WEBSITE)</b>&nbsp;&nbsp;<a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> CLICK HERE TO WEBSITE </h3></a>
 # Author 
  <b>IT KMITL#16</b> <br />

@@ -2,17 +2,17 @@ import pandas, numpy, pygal
 
 def main():
     """ arrange data """
-    dataFrame1 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\June2018(Youtube).csv', encoding = "ISO-8859-1")
-    dataFrame2 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\July2018(Youtube).csv', encoding = "ISO-8859-1")
-    dataFrame3 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\August2018(Youtube).csv', encoding = "ISO-8859-1")
-    dataFrame4 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\September2018(Youtube).csv', encoding = "ISO-8859-1")
-    dataFrame5 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\October2018(Youtube).csv', encoding = "ISO-8859-1")
+    dataFrame1 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\June2018(Youtube).csv', encoding = "ISO-8859-1")
+    dataFrame2 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\July2018(Youtube).csv', encoding = "ISO-8859-1")
+    dataFrame3 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\August2018(Youtube).csv', encoding = "ISO-8859-1")
+    dataFrame4 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\September2018(Youtube).csv', encoding = "ISO-8859-1")
+    dataFrame5 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\October2018(Youtube).csv', encoding = "ISO-8859-1")
 
-    dataFrame6 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\June2018(Twitch).csv', encoding = "ISO-8859-1")
-    dataFrame7 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\July2018(Twitch).csv', encoding = "ISO-8859-1")
-    dataFrame8 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\August2018(Twitch).csv', encoding = "ISO-8859-1")
-    dataFrame9 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\September2018(Twitch).csv', encoding = "ISO-8859-1")
-    dataFrame10 = pandas.read_csv('Most Watched Games on Twitch & YouTube Gaming\October2018(Twitch).csv', encoding = "ISO-8859-1")
+    dataFrame6 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\June2018(Twitch).csv', encoding = "ISO-8859-1")
+    dataFrame7 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\July2018(Twitch).csv', encoding = "ISO-8859-1")
+    dataFrame8 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\August2018(Twitch).csv', encoding = "ISO-8859-1")
+    dataFrame9 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\September2018(Twitch).csv', encoding = "ISO-8859-1")
+    dataFrame10 = pandas.read_csv('D:\\PSIT-Project\\data\\Most Watched Games on Twitch & YouTube Gaming\\October2018(Twitch).csv', encoding = "ISO-8859-1")
 
     # data1 is list()
     data1 = numpy.array(dataFrame1[['TITLE', 'ESPORTS HOURS(MILLION)']]).tolist()
@@ -44,13 +44,14 @@ def graph(var):
     """ plot graph """
     from pygal.style import Style
     custom_style = Style(
-    legend_font_size=8,
-    title_font_size=10,
-    legend_at_bottom_columns=3,
     plot_background='#FFFFFF',
     background='#FFFFFF')
 
-    line_chart = pygal.Bar(x_title='First Graph', style=custom_style, truncate_legend=1500)
+    line_chart = pygal.Bar(title='Second Graph',
+        style=custom_style,
+        truncate_legend=1500,
+        legend_at_bottom=True,
+        legend_at_bottom_columns=3)
     for i in range(10):
         line_chart.add(var[i][0], var[i][1])
     line_chart.render_to_file('mostviewedoverall.svg')

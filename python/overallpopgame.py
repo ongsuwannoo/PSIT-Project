@@ -41,7 +41,7 @@ def main():
     typ = {'League of Legends': 'MOBA', 'Dota 2': 'MOBA', 'Counter-Strike: Global Offensive': 'FPS',\
      'Hearthstone': 'CCG', 'Overwatch': 'FPS', 'Heroes of the Storm': 'MOBA', 'StarCraft II': 'RTS', \
      "PLAYERUNKNOWN'S BATTLEGROUNDS": 'BR', 'Rocket League': 'Sports',\
-      "Tom Clancy's Rainbow Six: Siege": 'Tactical shooter', 'Street Fighter V': 'Fighting', \
+      "Tom Clancy's Rainbow Six: Siege": 'Tactical Shooter', 'Street Fighter V': 'Fighting', \
       'Call of Duty: WWII': 'FPS', 'World of Warcraft': 'MMORPGs', 'Arena of Valor': 'MOBA', \
       'Magic: The Gathering':'CCG', 'Fortnite': 'BR', 'Age of Empires': 'RTS', 'Super Smash Bros. Melee': 'Fighting'\
       , 'FIFA 18': 'Sports', 'Warface': 'FPS', 'Garena RoV: Mobile MOBA': 'MOBA', 'FIFA Online 4': 'Sports'}
@@ -66,6 +66,5 @@ def graph(dic_2, lis, lis_1):
     for i in lis_1:
         line_chart.add(i[0], (int(((i[1]*100)/(len(lis))*100)))/100)
     line_chart.render_to_file('overallpopgame.svg')
-
 
 main()

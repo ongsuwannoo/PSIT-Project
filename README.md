@@ -2,16 +2,16 @@
 ![](images/esports.gif)
 
 # Description 
-Project นี้เป็นการวิเคราะห์ความนิยมของแนวเกมในวงการ eSports ว่าเกมแนวใดสามารถเจาะตลาดให้ผู้เล่นมาสนใจได้มากที่สุด และ<br />รายได้ทั้งหมดของวงการ Esports มีผลต่อเศรษฐกิจอย่างไร<br>
-<b>1.วิเคราะห์เศรษฐกิจในวงการ eSports</b><br>
-<b>2.วิเคราะห์แนวเกมที่เป็นที่นิยมในวงการ eSports</b>
+Project นี้เป็นวิเคราะห์รายได้จากวงการ eSports ว่ามีแนวทางการเติบโตและส่งผลต่อธุรกิจอย่างไรบ้าง และวิเคราะห์ความนิยมของแนวเกมในวงการ eSports รวมไปถึงสาเหตุที่เป็นที่นิยม<br>
+<b>1.วิเคราะห์รายได้จากวงการ eSports ว่ามีแนวทางการเติบโตและส่งผลต่อธุรกิจอย่างไร</b><br>
+<b>2.วิเคราะห์แนวเกมที่เป็นที่นิยมในวงการ eSports และสาเหตุที่เป็นที่นิยม</b>
 
 # Status
 <b>Economic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: Completed</b><br>
 <b>Game Trends&nbsp;&nbsp;&nbsp;: Completed</b><br>
 <b>Conclusion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Completed</b><br>
 <b>Presentation Video : Uncompleted</b><br>
-<b>Lastest Update : 17 Dec 2018 04:26 PM</b><br>
+<b>Lastest Update : 18 Dec 2018 02:13 PM</b><br>
 &nbsp;&nbsp;<a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> ผลการดำเนินการ (PROJECT SITE) </h3></a>
 # Author 
  <b>IT KMITL#16</b> <br />

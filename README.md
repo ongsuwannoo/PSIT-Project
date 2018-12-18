@@ -10,7 +10,7 @@ Project นี้เป็นวิเคราะห์รายได้จา
 <b>Economic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: Completed</b><br>
 <b>Game Trends&nbsp;&nbsp;&nbsp;: Completed</b><br>
 <b>Conclusion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Completed</b><br>
-<b>Presentation Video : Uncompleted</b><br>
+<b>Presentation Video : Completed</b><br>
 <b>Lastest Update : 18 Dec 2018 02:13 PM</b><br>
 &nbsp;&nbsp;<a href=http://www.it.kmitl.ac.th/~it61070020/web/index.html><h3> ผลการดำเนินการ (PROJECT SITE) </h3></a>
 # Author 

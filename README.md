@@ -44,8 +44,6 @@ Project นี้เป็นวิเคราะห์รายได้จา
 <br />
 
 # References 
-<a href=http://database.esportsobserver.com/>TEO Professional</a><br />
-<a href=https://www.esportsearnings.com/>e-Sports Earnings</a>
 <br />
 <br />
 
